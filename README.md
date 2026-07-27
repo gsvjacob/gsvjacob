@@ -50,4 +50,5 @@
 
 ---
 
-📫 **Vamos nos conectar?** [Email](mailto:gustavojacobbgp@gmail.com)
+📫 **Vamos nos conectar?**
+[Email](mailto:gustavojacobbgp@gmail.com)
